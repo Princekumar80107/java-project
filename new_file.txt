@@ -1,0 +1,4 @@
+Id: 4692,Name: Ridhi,Salary:50000,Bonus: 10000.0, Salary after bonus: 60000.0
+Id: 4372,Name: Sukriti,Salary:100000,Bonus: 20000.0, Salary after bonus: 120000.0
+Id: 8218,Name: Parwinder,Salary:20000,Bonus: 2000.0, Salary after bonus: 22000.0
+Id: 4692,Name: Ridhi,Salary:50000,Bonus: 10000.0, Salary after bonus: 60000.0
